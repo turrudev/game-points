@@ -1,0 +1,12 @@
+{
+  "normal": {
+    "primary": "DarkViolet",
+    "secondary": "DeepPink",
+    "tertiary": "DeepSkyBlue"
+  },
+  "dark": {
+    "primary": "DeepPink",
+    "secondary": "DeepSkyBlue",
+    "tertiary": "DarkViolet"
+  }
+}

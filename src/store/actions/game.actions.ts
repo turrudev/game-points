@@ -1,0 +1,4 @@
+const SET_GAME = "SET_GAME";
+const SCORE_ITEM = "SCORE_ITEM";
+
+export {SET_GAME, SCORE_ITEM};
